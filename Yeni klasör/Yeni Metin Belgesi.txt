@@ -1,0 +1,8 @@
+dizi boyutunu kullanıcıdan iste
+
+
+fonksiyondan sona kadar tekrar yap
+final sorularını bitir
+screen shotları dene
+yeni kodlar bul yazmaya çalış
+

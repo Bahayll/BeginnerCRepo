@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703243909 source:e:\c proje\hackathoncalisma\main.c
+	<stdio.h>
+	<stdlib.h>
+
