@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1655466143 source:c:\users\baha yolal\desktop\stringler 3\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<ctype.h>
-
