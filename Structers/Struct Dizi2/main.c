@@ -1,16 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
-struct Calisan{
+struct Employee{
 int id;
 char isim[10];
 };
-// 3 tane çalýþan tutalým
 int main()
 {
-    struct Calisan dizi[3];
+    struct Employee dizi[3];
     int i ;
     for(i=0;i<3;i++){
-        scanf("%d", &dizi[i].id);// böyle yazmassan olmazz dizi[i].id unutma !!
+        scanf("%d", &dizi[i].id);
         scanf("%s", &dizi[i].isim);
     }
      for(i=0;i<3;i++){
